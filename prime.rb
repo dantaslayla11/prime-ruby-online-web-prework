@@ -1,5 +1,5 @@
-def prime?(-1)
-
+def prime?(i)
+i == 2
 end
 
 
