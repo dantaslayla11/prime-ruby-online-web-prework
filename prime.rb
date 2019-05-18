@@ -1,4 +1,4 @@
-def prime?()
+def prime?(-1)
 
 end
 
